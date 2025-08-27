@@ -32,7 +32,7 @@ Este es un proyecto sencillo en **JavaScript, HTML y CSS** que consiste en adivi
 
 Puedes ver el proyecto funcionando aquí:  
 
-
+👉 https://francinethmolina.github.io/Juego-Numero-Secreto/
 
 ## ✨ Mejoras futuras (opcional)
 

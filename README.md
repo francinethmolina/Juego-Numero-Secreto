@@ -20,10 +20,6 @@ Este es un proyecto sencillo en **JavaScript, HTML y CSS** que consiste en adivi
 
 ┗ 📄 img → Imagenes
 
-## 🖼️ Vista previa
-
-Puedes ver el proyecto funcionando aquí:  
-
 ## ▶️ Cómo jugar
 
 1. Ingresa un número en la caja de texto.
@@ -32,10 +28,18 @@ Puedes ver el proyecto funcionando aquí:
 4. Sigue intentando hasta acertar.
 5. Cuando aciertes, podrás reiniciar el juego.
 
+## 🖼️ Vista previa
+
+Puedes ver el proyecto funcionando aquí:  
+
+
 
 ## ✨ Mejoras futuras (opcional)
 
 - Ajustar el rango del número secreto (ejemplo: 1 a 100).  
 - Agregar un contador de récords personales.  
 - Implementar niveles de dificultad.  
-- Mejorar la interfaz con animaciones. 
+- Mejorar la interfaz con animaciones.
+
+
+## ✍️ Proyecto hecho con fines prácticos de aprendizaje.

@@ -14,8 +14,11 @@ Este es un proyecto sencillo en **JavaScript, HTML y CSS** que consiste en adivi
 📁 Amigo-Secreto
 
 ┣ 📄 index.html → Estructura principal del juego
+
 ┣ 📄 style.css → Estilos del juego
+
 ┗ 📄 app.js → Lógica en JavaScript
+
 ┗ 📄 img → Imagenes
 
 ## 🖼️ Vista previa

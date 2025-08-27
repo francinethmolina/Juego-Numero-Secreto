@@ -11,7 +11,6 @@ Este es un proyecto sencillo en **JavaScript, HTML y CSS** que consiste en adivi
 - Permite reiniciar el juego al acertar.
 
 ## 📂 Estructura del proyecto
-📁 Amigo-Secreto
 
 ┣ 📄 index.html → Estructura principal del juego
 
